@@ -1,4 +1,4 @@
-// made by Costache Madalin (lllll llll)
+// eited by ABu 6L8 (lllll llll)
 // discord: costache madalin#8472
 // Modified UI to match balance res style
 
